@@ -1,3 +1,4 @@
 Nome              |      Email        |          Hobbie
 ------------------------------------------------------------
 joao verissimo | j.felippe.de.melo@avanade.com | Jogar PC(albion online)
+Alexandre Moreira | a.moreira.de.souza@avanade.com | Tocar (Violão,Guirarra e Contra Baixo).
