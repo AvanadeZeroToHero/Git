@@ -1,4 +1,5 @@
 Nome              |      Email        |          Hobbie
 ------------------------------------------------------------
 joao verissimo | j.felippe.de.melo@avanade.com | Jogar PC(albion online)
-//nome aqui    | email
+
+Palloma | palloma.t.dos.santos@avanade.com | desenhar
